@@ -1,0 +1,15 @@
+php -S localhost:8080 -t public/
+
+login: admin@adm.com
+senha:adm
+
+Ferramentas
+Editor de Texto PHP = trix editor
+https://trix-editor.org/
+Obs: só copiar os arquivos /disc trix.css e /disc trix.js
+
+Font Awesome icons v. 5.8.1
+Biblioteca de icones
+https://fontawesome.com/icons?d=gallery&m=free
+Obs: só copiar link: https://fontawesome.com/start /
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
